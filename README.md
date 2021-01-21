@@ -9,9 +9,9 @@
  
 ---
 
-- [رزومه](https://github.com/niloofar-sharifi/PNU_3991_AR/blob/main/niloofar.sharifinia.pdf)
-- [PNU-3991-AR]()
-
+- [Resume](https://github.com/niloofar-sharifi/PNU_3991_AR/blob/main/niloofar.sharifinia.pdf)
+- [PNU-3991-AR](https://github.com/niloofar-sharifi/PNU_3991_AR/blob/main/README.md)
+- [javascript certificate]()
 ---
 ## گروه طراحی واسط کاربر
 
